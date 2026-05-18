@@ -1,6 +1,6 @@
 # LDoS Lookup Snippet Tool
 
-The **LDoS Lookup Snippet Tool** is a Python-based automation script that helps teams review Cisco product lifecycle data by querying Cisco Support Tools APIs and generating a structured migration report.
+The **LDoS Lookup Snippet Tool** is a Python automation tool for Cisco lifecycle and migration analysis using authorized public-facing support APIs that help teams review Cisco product lifecycle data by querying Cisco Support Tools APIs and generating a structured migration report.
 
 This tool is designed to reduce manual effort when reviewing large Product ID lists for lifecycle status, Last Date of Support information, documentation links, and recommended migration products.
 
@@ -225,23 +225,6 @@ This report includes lifecycle and migration information for the processed Produ
 
 ---
 
-## Notes
-
-Application Programming Interfaces are technical in nature. A basic understanding of APIs is recommended.
-
-For Cisco automation learning resources, visit:
-
-```text
-https://developer.cisco.com/startnow/
-```
-
-For Cisco partner assistance:
-
-```text
-https://cs.co/PartnerCSS
-```
-
----
 
 ## Author
 
@@ -257,8 +240,4 @@ GitHub: [https://github.com/CiscoSteve](https://github.com/CiscoSteve)
 
 ## Disclaimer
 
-This project is intended for authorized lifecycle research, reporting, and automation use only.
-
 This is not an officially supported Cisco product.
-
-
