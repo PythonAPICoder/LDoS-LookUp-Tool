@@ -10,11 +10,15 @@ See https://developer.cisco.com/docs/support-apis/ for more info on Cisco Suppor
 
 ## Disclaimer
 
-The LDoS Lookup Tool is not an officially released or supported Cisco product.
+The LDoS Lookup Tool is an independent automation solution and is not an officially supported Cisco product.
 
-**Use at your own discretion.**
+Users are responsible for:
 
-Cisco API endpoints may have daily API call limits. This snippet was designed with care to minimize unnecessary API usage.
+* API credential management
+* Compliance with Cisco API policies
+* Responsible rate limit usage
+* Internal governance
+* Operational validation
 
 ---
 
